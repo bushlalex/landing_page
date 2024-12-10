@@ -172,14 +172,18 @@ img {
 
 .bluecontainer {
     display: inline-flex;
-    justify-content: center;
+    justify-content: space-around;
     background: #3882F6;
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 400px;
     padding-right: 400px;
     color: white;
+    gap: 500px;
+    
 }
+
+
 
 
 
